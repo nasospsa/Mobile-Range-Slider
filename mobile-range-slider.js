@@ -1,12 +1,12 @@
 /*
- * Mobile Range Slider 
+ * Mobile Range Slider
  * A Touch Slider for Webkit / Mobile Safari
  *
- * https://github.com/ubilabs/mobile-range-slider
+ * https://github.com/nasospsa/Mobile-Range-Slider
  *
- * Full rewrite of https://github.com/alexgibson/WKSlider
+ * Full rewrite of https://github.com/ubilabs/mobile-range-slider
  *
- * @author Ubilabs http://ubilabs.net, 2012
+ * @author Nasos Psarrakos
  * @license MIT License http://www.opensource.org/licenses/mit-license.php
  */
 
